@@ -1,0 +1,109 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.hautdepage{
+    display: flex;
+    
+}
+.photoid{
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+}
+.title{
+    font-size: 40px;
+
+}
+.list{
+list-style-type: none;
+display: flex;
+justify-content: space-evenly;
+}
+.icon{
+width: 15px;
+}
+.list-items{
+    
+}
+.sous-titre{
+    color: #1087e9;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+.section1{
+margin-left: 40px;
+}
+/*************************
+
+EXPERIENCE
+
+**************************/
+.experience{
+    display: flex;
+    
+}
+.section2{
+    margin-top: 10px;
+    
+}
+.liste-experience{
+list-style-type: none;
+display: flex;
+justify-content: space-between;
+}
+.item-experience{
+
+}
+.item-date{
+margin-right: 60px;
+}
+/*************************
+
+SKILLS
+
+**************************/
+.skills{
+    display: flex;
+    justify-content: space-evenly;
+}
+/*************************
+
+INTERET
+
+**************************/
+
+.title-interet{
+
+}
+.interet{
+list-style-type: none;
+display: flex;
+justify-content: space-evenly;
+}
+.classlisteinteret{
+
+}
+.icon-interet{
+    width: 50px;
+    
+}
+/*************************
+
+REFERENCE
+
+**************************/
+.liste-reference{
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
+}
+.item-reference{
+
+}
+.icon-reference{
+    width: 15px;
+}
